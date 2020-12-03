@@ -1,0 +1,1 @@
+probably the first stuff i wrote in solidity - some random arb PoC contracts. complete mess
